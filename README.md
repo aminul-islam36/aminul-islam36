@@ -8,37 +8,47 @@
 
 <p align="center">I'm a MERN stake web developer with hands-on experience building user-friendly web applications with react, next.js,mongodb, Express, node.js. I focus on building clean and sustainable code for growing your project.
 I enjoy solving real world problems and always trying to learn new technologies . I love to increase my skills every day
-
 </p>
-<h2 align="center">⚡ Current Stats ⚡</h2>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/aminul-islam/github-readme-streak-stats">
-          <img width="400" src="https://streak-stats.demolab.com/?user=aminul-islam&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img width="400" src="https://github-readme-stats.vercel.app/api?username=aminul-islam&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminul-islam&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-  </a>
-</div>
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aminul-islam36&theme=neon&hide_border=false" alt="GitHub Streak Stats" />
+</p>
 
-<br>
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminul-islam&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<hr>
+<!-- ===================== GITHUB SUMMARY CARDS ===================== -->
+## 📊 GitHub Dashboard
+
+<table align="center">
+  <!-- Stats Cards -->
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aminul-islam36&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Stats 1" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aminul-islam36&theme=dark&utcOffset=6" alt="Commits 1" />
+    </td>
+  </tr>
+
+  <!-- Top Language by Repo Cards -->
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminul-islam36&theme=dark" alt="Top Language by Repo 1" />
+    </td>
+    <!-- Top Language by Commit Cards -->
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminul-islam36&theme=dark" alt="Top Language by Commit 1" />
+    </td>
+
+  </tr>
+
+</table>
+
+---
 
 <h2>🔥 Languages, Frameworks & Tools &  🔥</h2>
 
