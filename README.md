@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Aminul+Islam;MERN+Stack+Developer;React+%26+Next.js+Specialist;Problem+Solver" alt="Typing SVG" />
 </h1>
 
-<p align="center">I'm a MERN stake web developer with hands-on experience building user-friendly web applications with react, next.js,mongodb, Express, node.js. I focus on building clean and sustainable code for growing your project.
+<p align="center">I'm a MERN stack web developer with hands-on experience building user-friendly web applications with react, next.js,mongodb, Express, node.js. I focus on building clean and sustainable code for growing your project.
 I enjoy solving real world problems and always trying to learn new technologies . I love to increase my skills every day
 </p>
 
@@ -98,5 +98,5 @@ I enjoy solving real world problems and always trying to learn new technologies 
 ### 📫 Reach me out
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aminul-islam36/)
-[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white">](https://hr-asset-verse.web.app/)
+[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white">](https://aminul-islam36.netlify.app)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:mmamin2021@gmail.com)
