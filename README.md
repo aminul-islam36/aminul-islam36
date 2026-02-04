@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Aminul+Islam;MERN+Stack+Developer;React+%26+Next.js+Specialist;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=I'm+Aminul+Islam;MERN+Stack+Developer;React+%26+Next.js+Specialist;Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <p align="center">I'm a MERN stack web developer with hands-on experience building user-friendly web applications with react, next.js,mongodb, Express, node.js. I focus on building clean and sustainable code for growing your project.
