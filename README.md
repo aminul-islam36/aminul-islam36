@@ -1,5 +1,5 @@
-<a href="https://www.linkedin.com/in/aminul-islam36/" target="_blank">
-<img width=100% src="https://i.ibb.co.com/WWB680xC/Linked-In-Banner.png" />
+<a href="https://www.linkedin.com/in/aminul-islam36" target="_blank">
+<img width=100% src="https://i.ibb.co.com/Ps6F8th5/Cover-pt.jpg" />
 </a>
 
 <h1 align="center">
@@ -97,6 +97,6 @@ I enjoy solving real world problems and always trying to learn new technologies 
 
 ### 📫 Reach me out
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aminul-islam36/)
-[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white">](https://aminul-islam36.netlify.app)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:mmamin2021@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aminul-islam36)
+[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white">](https://amin36.netlify.app)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:waminbroo@gmail.com)
