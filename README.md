@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I am a web developer from Bangladesh focused on building modern, scalable, and user-friendly web applications using the MERN stack. I enjoy transforming ideas into real-world digital products with clean UI and efficient backend logic.
+I am a web developer from Bangladesh focused on building modern, scalable, and user-friendly web applications using the MERN stack. I enjoy transforming ideas into real-world digital applications with clean UI and efficient backend logic.
 
 - 🌱 Currently learning **MongoDB, Express.js, Node.js**
 - 🔐 Exploring **BetterAuth** for secure and modern authentication systems
