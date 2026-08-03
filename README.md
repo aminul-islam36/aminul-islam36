@@ -70,7 +70,7 @@ Modern library system with secure authentication and smart Products management.
 - 🛠 Tech: Next.js, MongoDB, Firebase, Tailwind CSS, DaisyUI
 - ✨ Features: Google login, category filtering, search, private routes, profile system
 - 🔗 Live: https://global-link-hub.web.app/
-- 💻 Code: https://github.com/aminul-islam366/Global-Link-Hub
+- 💻 Code: https://github.com/aminul-islam36/Global-Link-Hub_Client.git
 
 ---
 
